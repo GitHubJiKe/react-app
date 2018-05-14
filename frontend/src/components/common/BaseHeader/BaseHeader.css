@@ -1,0 +1,12 @@
+.baseheader_wrapper{
+  width:100%;
+  height:60px;
+  line-height: 60px;
+  position: fixed;
+  top:0px;
+  text-align: center;
+  background-color: cadetblue;
+  color: black;
+  font-size: 20pt;
+  z-index: 10000;
+}

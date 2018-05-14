@@ -1,0 +1,8 @@
+.my_footer{
+  width:100%;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+}
